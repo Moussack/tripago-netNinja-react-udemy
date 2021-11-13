@@ -51,4 +51,4 @@ export default function TripList() {
       setTrips(data);
    };
 
-   fetchFunc(); asdasdgit  */
+   fetchFunc(); asdasdgit asdasdasd */
