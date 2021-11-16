@@ -32,15 +32,3 @@ export default function TripList() {
       </div>
    );
 }
-
-/*  // fetch trips from json data with async await
-   const fetchFunc = async () => {
-      const response = await fetch('http://localhost:3000/trips');
-      const data = await response.json();
-      console.log(data);
-      setTrips(data);
-   };
-
-   fetchFunc(); asdasdgit asdasdasd  test asdasd*/
-
-//sreras test astre
